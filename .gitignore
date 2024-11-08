@@ -1,0 +1,9 @@
+Include/
+Lib/
+Scripts/
+share/
+scrapper/credentials/
+scrapper/errors_screenshots
+logs/
+download/
+__pycache__/

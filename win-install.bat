@@ -1,1 +1,1 @@
-call cd ../ && python -m venv election_poznan_mapsrequirements.txt && cd election_poznan_mapsrequirements.txt && Scripts\activate.bat && pip install -r requirements.txt
+call cd ../ && python -m venv poznan_election_maps_2024 && cd poznan_election_maps_2024 && Scripts\activate.bat && pip install -r requirements.txt
